@@ -1,4 +1,4 @@
-DeepBreath: Fast Deformable Registration for Real-time MRI-guided Radiation Therapy <img src="assets/deep-breath-icon.png" width="200px" align="right" />
+<img src="assets/deep-breath-icon.png" width="100px" align="left" /> DeepBreath: Fast Deformable Registration for Real-time MRI-guided Radiation Therapy 
 ===========
 "Fast deformable image registration for real-time target tracking during radiotherapy using cine MRI and deep learning."
 *Under Review*
